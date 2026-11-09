@@ -1,0 +1,14 @@
+.navbar {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    gap: 10px;
+    list-style: none;
+}
+
+.navbar a {
+    text-decoration: none;
+    color: darkgrey;
+}
+
+
